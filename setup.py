@@ -14,7 +14,7 @@ setup(
     author='Joe Singleton',
     author_email='joesingo@gmail.com',
     install_requires=[
-        'PyYAML==5.1.1',
+        'PyYAML==5.4',
         'Jinja2==2.10.1',
         'requests==2.22.0',
     ],
